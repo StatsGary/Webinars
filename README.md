@@ -19,7 +19,7 @@ Each folder contains a session:
 | 18/03/2020 |                                   |  Tom Jemmett   |                                                                                                                   |
 | 22/04/2020 |                                   |  Chris Beeley  |                                                                                                                   |
 | 20/05/2020 |                                   | Emma Vestesson |                                                                                                                   |
-| 17/06/2020 |                                   |                |                                                                                                                   |
+| 17/06/2020 |                                   | Gary Hutson    |                                                                                                                   |
 | 15/07/2020 |                                   |                |                                                                                                                   |
 | 19/08/2020 |                                   |                |                                                                                                                   |
 | 16/09/2020 | Why and how to build an R package |  Chris Mainey  |                                                                                                                   |
