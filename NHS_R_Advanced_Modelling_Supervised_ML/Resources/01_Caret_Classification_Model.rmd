@@ -105,7 +105,7 @@ dim(data_TEST)
 
 The next step is to set the training harness and pick which metric we want to optimise. As the dataset is now balanced, accuracy is the best measure of performance. However, I would advise against accuracy with an unbalanced classification strata.
 
-```{r ml_away, echo=TRUE, include=FALSE}
+```{r ml_away, echo=TRUE, include=TRUE}
 eval_metric <- "Accuracy"
 set.seed(123) # Random seed to make the results reproducible
 
